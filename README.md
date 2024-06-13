@@ -13,7 +13,7 @@ git clone https://github.com/thep0y/mpv-config.git ~/.config/mpv
 #### Windows
 
 ```powershell
-git clone https://github.com/thep0y/mpv-config.git "$($Env:LOCALAPPDATA)\mpv"
+git clone https://github.com/thep0y/mpv-config.git "$($Env:APPDATA)\mpv"
 ```
 
 ### 2.直接下载配置文件
